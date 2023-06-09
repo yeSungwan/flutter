@@ -8,4 +8,4 @@
 # 인적사항
 ![page2](https://github.com/yeSungwan/report2/assets/52937468/0ddd6a8f-cfa4-477e-bd9f-435deae90d71)
 # 프로젝트
-![page3](https://github.com/yeSungwan/report2/assets/52937468/c758fea3-a653-497f-9211-611ff8a01a4d)
+

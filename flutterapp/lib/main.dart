@@ -85,7 +85,7 @@ class MyApp extends StatelessWidget {
                     ),
                     Container(
                       padding: EdgeInsets.symmetric(horizontal: 35),
-                      child: Text('프로젝트 : http://219.249.43.80//index.html'),
+                      child: Text('프로젝트 : http://index.html'),
                     )
                   ],
                 )
